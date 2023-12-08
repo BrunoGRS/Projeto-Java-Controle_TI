@@ -3,9 +3,10 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/bruno/OneDrive/Documentos/NetBeansProjects/App_Java/src/MenuCadastro/AtualizarUsuario.java</file>
-            <file>file:/C:/Users/bruno/OneDrive/Documentos/NetBeansProjects/App_Java/src/MenuCadastro/CriarUsuario.java</file>
-            <file>file:/C:/Users/bruno/OneDrive/Documentos/NetBeansProjects/App_Java/src/MenuCadastro/CadUsuario.java</file>
+            <file>file:/C:/Users/bruno/OneDrive/Documentos/NetBeansProjects/App_Java/src/MenuFornecedor/AtualizarFornecedor.java</file>
+            <file>file:/C:/Users/bruno/OneDrive/Documentos/NetBeansProjects/App_Java/src/Estoque/RetiradaEstoque.java</file>
+            <file>file:/C:/Users/bruno/OneDrive/Documentos/NetBeansProjects/App_Java/src/MenuProduto/CriarProduto.java</file>
+            <file>file:/C:/Users/bruno/OneDrive/Documentos/NetBeansProjects/App_Java/src/database/ConexaoBD.java</file>
         </group>
     </open-files>
 </project-private>
